@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Vince",
+      "age": 22,
+      "email": "vince@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "Loki",
+      "age": 24,
+      "email": "Loki@mail.com",
+      "isEnrolled": true
+    },
+     {
+      "name": "Yokok",
+      "age": 25,
+      "email": "yokok@mail.com",
+      "isEnrolled": false
+    },
+     {
+      "name": "Lowkey ",
+      "age": 25,
+      "email": "lowkey@mail.com",
+      "isEnrolled": false
+    }
+  ]
+}
